@@ -1,0 +1,14 @@
+:Author: Ayushi Vineet Sharan & Bhargavi Gupta
+:Date: 26/04/2022
+:Revision: version#
+:License: Public Domain
+
+= Project: Waste Management App
+
+This project demonstrates how Internet of Things (IoT) integration with data 
+access networks, Geographic Information Systems (GIS), combinatorial optimization, and 
+mobile application development can contribute to improve cities’ management systems. A 
+waste collection solution based on providing intelligence to trashcans, by using an IoT 
+prototype embedded with sensors, which can read, collect, and transmit trash volume data 
+over the Internet is presented.
+
